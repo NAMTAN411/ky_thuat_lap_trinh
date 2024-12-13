@@ -1,3 +1,5 @@
+print("Dau Nam Tan")
+print("mssv:235752021610007")
 class Nguoi(object):
     def getGender(self):
         return "Unknown"
