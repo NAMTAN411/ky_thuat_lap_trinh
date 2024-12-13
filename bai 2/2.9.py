@@ -1,3 +1,5 @@
+print("Dau Nam Tan")
+print("mssv:235752021610007")
 string = input("Nhập vào một chuỗi ký tự: ")
 
 char_count = {}
