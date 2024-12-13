@@ -1,3 +1,5 @@
+print("Dau Nam Tan")
+print("mssv:235752021610007")
 l = [1, 'python', 4, 7]
 k = ['cse', 2, 'guntur', 8]
 
