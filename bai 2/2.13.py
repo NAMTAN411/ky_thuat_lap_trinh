@@ -1,3 +1,5 @@
+print("Dau Nam Tan")
+print("mssv:235752021610007")
 import math
 
 a = float(input("Nhập hệ số a: "))
