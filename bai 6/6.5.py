@@ -1,3 +1,5 @@
+print("Dau Nam Tan")
+print("mssv:235752021610007")
 class StringReverser:
     def __init__(self, input_string):
         self.input_string = input_string
