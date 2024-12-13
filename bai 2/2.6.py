@@ -1,3 +1,5 @@
+print("Dau Nam Tan")
+print("mssv:235752021610007")
 numbers = []
 
 for i in range(2000, 3201):
