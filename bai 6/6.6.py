@@ -1,3 +1,5 @@
+print("Dau Nam Tan")
+print("mssv:235752021610007")
 class StringHandler:
     def __init__(self):
         self.user_string = ""
