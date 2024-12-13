@@ -1,3 +1,5 @@
+print("Dau Nam Tan")
+print("mssv:235752021610007")
 import math
 
 x1 = int(input("Enter x1 ---> "))
